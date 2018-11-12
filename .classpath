@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_43"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/DataProviderDemo/libs/json-20080701.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
